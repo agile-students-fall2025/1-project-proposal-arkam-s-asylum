@@ -3,7 +3,7 @@
 ## Our Current Team
 - [Arkam](https://github.com/)
 - [Anas](https://github.com/)
-- [Saad Sifar](https://github.com/one-loop)
+- [Saad](https://github.com/one-loop)
 
 ---
 
